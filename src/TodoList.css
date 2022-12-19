@@ -1,0 +1,14 @@
+
+.add-todo-containetet{
+    display: flex;
+    gap: 16px;
+}
+
+.todo-list{
+list-style: style none;
+display: flex;
+flex-direction: column;
+justify-content: start;
+align-items: start;
+
+}
